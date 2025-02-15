@@ -8,10 +8,12 @@ body {
 
 @font-face {
      font-family: "Peace Sans";
-     src: url("Nexasweb/ecran-libre/Peace-Sans.otf");
+     src: url("Nexasweb/ecran-libre/Peace-Sans.otf") format(OpenType);
      font-weight: 400;
      font-weight: 700;
 }
+
+
 @media (max-width: 1160px) {
 
      .dd {
